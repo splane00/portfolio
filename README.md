@@ -4,7 +4,7 @@
 ## 🔹 Skills  
 ✅ SQL (PostgreSQL, MySQL)  
 ✅ Python (pandas, NumPy, Matplotlib, Seaborn)  
-✅ Tableau & Power BI (Dashboards & Data Visualization)  
+✅ Tableau, Jupyter Notebook, & Power BI (Dashboards & Data Visualization)  
 ✅ Excel (Advanced functions, Pivot Tables)  
 
 ## 📂 Featured Projects  
