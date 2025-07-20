@@ -6,12 +6,12 @@ Programming with SQL, Python, R, JavaScript
 Data visualization with Tableau, Jupyter Notebook, Google Sheets, Excel
 
 ## Sections  
-**Interest projects: (link-to-project-folder)**  
+**Interest projects**  
 Includes:
   - Rosalind.info Bioinformatics Problems
   - Hospital Readmission Data Analysis
     
-**Projects from coursework: (link-to-project-folder)**  
+**Projects from coursework**  
 Includes:
   - Data Structures deliverables: Prefix to Postfix using stacks and recursion (https://github.com/splane00/portfolio/blob/main/prefix_to_postfix)
   - 2
