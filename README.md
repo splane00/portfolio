@@ -8,7 +8,7 @@ Data visualization with Tableau, Jupyter Notebook, Google Sheets, Excel
 ## Sections  
 **Interest projects: (link-to-project-folder)**  
 Includes:
-  - Rosalind.info Bioinformatics Problems
+  - Rosalind.info Bioinformatics Problems (https://github.com/splane00/portfolio/tree/main)
   - Hospital Readmission Data Analysis
     
 **Projects from coursework: (link-to-project-folder)**
