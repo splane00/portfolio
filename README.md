@@ -9,7 +9,6 @@ Data visualization with Tableau, Jupyter Notebook, Google Sheets, Excel
 **Interest projects**  
 Includes:
   - Rosalind.info Bioinformatics Problems
-  - Hospital Readmission Data Analysis
     
 **Projects from coursework**  
 Includes:
