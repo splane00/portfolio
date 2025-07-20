@@ -17,5 +17,5 @@ Includes:
   - 2
     
 ## Let's Connect!  
-🔗 https://www.linkedin.com/in/samantha-lane-917771155/ 
+🔗 https://www.linkedin.com/in/samantha-lane-917771155/   
 📧 Email: slane21@jh.edu
