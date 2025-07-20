@@ -13,7 +13,7 @@ Includes:
     
 **Projects from coursework: (link-to-project-folder)**
 Includes:
-  - Data Structures Deliverables (data-structures)
+  - Data Structures deliverables (https://github.com/splane00/portfolio/blob/main/prefix_to_postfix)
   - 2
     
 ## Let's Connect!  
