@@ -6,12 +6,12 @@ Programming with SQL, Python, R, JavaScript
 Data visualization with Tableau, Jupyter Notebook, Google Sheets, Excel
 
 ## Sections  
-**[Interest projects: (link-to-project-folder)**  
+**Interest projects: (link-to-project-folder)**  
 Includes:
   - Hospital Readmission Data Visualization
   - d
     
-**[Projects from coursework: (link-to-project-folder)**
+**Projects from coursework: (link-to-project-folder)**
 Includes:
   - Data Structures deliverables (link)
   - d
