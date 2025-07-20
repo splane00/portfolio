@@ -1,16 +1,21 @@
 # Project Portfolio  
-**Hi, I'm Samantha (Sami) Lane** – a data analyst with experience in SQL, Python, Tableau, and Excel. I love turning raw data into actionable insights.  
+**Hi, I'm Samantha (Sami) Lane** – a graduate student in the Johns Hopkins M.S. in Bioinformatics program. I'm passionate about biotech and creating programs to 
 
-## Skills  
-SQL (PostgreSQL, MySQL)  
-Python (pandas, NumPy, Matplotlib, Seaborn)  
-Tableau, Jupyter Notebook, & Power BI (Dashboards & Data Visualization)  
-Excel (Advanced functions, Pivot Tables)  
+## Skills
+Programming with SQL, Python, R, JavaScript
+Data visualization with Tableau, Jupyter Notebook, Google Sheets, Excel
 
-## Featured Projects  
-**[Project 1: Project Name (link-to-project-folder)**  
-**[Project 2: (link-to-project-folder)**  
-**[Project 3: (link-to-project-folder)**  
-
+## Sections  
+**[Interest projects: (link-to-project-folder)**  
+Includes:
+  - Hospital Readmission Data Visualization
+  - d
+    
+**[Projects from coursework: (link-to-project-folder)**
+Includes:
+  - Data Structures deliverables (link)
+  - d
+    
 ## Let's Connect!  
-🔗 https://www.linkedin.com/in/samantha-lane-917771155/ | 📧 Email: samanthalane9100@gmail.com 
+🔗 https://www.linkedin.com/in/samantha-lane-917771155/ 
+📧 Email: slane21@jh.edu
