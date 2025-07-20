@@ -13,7 +13,7 @@ Includes:
     
 **Projects from coursework: (link-to-project-folder)**
 Includes:
-  - Data Structures Deliverables (link)
+  - Data Structures Deliverables (data-structures)
   - 2
     
 ## Let's Connect!  
