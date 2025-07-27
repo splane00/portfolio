@@ -1,0 +1,11 @@
+AB+C-
+ABC+-
+AB-C+DEF-+$
+ABCDE-+$*EF*-
+ABC+*CBA-+*
+Line 6 ERROR: Too many operands for number of operators
+Line 7 ERROR: Too few operands for number of operators
+Line 8 ERROR: Too few operands for number of operators
+ABC+$CBA-+*
+Line 10 ERROR: Invalid character found: '0'
+ABC^$CBA-+*
