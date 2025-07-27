@@ -6,14 +6,14 @@ Programming with SQL, Python, R, JavaScript
 Data visualization with Tableau, Jupyter Notebook, Google Sheets, Excel
 
 ## Sections  
-**Interest projects: (link-to-project-folder)**  
+**Interest projects:**  
 Includes:
-  - Rosalind.info Bioinformatics Problems
+  - Rosalind.info Bioinformatics Problems (https://github.com/splane00/portfolio/tree/rosalind)
   - Hospital Readmission Data Analysis
     
-**Projects from coursework: (link-to-project-folder)**
+**Projects from coursework:**
 Includes:
-  - Data Structures Deliverables (link)
+  - Data Structures Deliverables (https://github.com/splane00/portfolio/tree/data-structures)
   - 2
     
 ## Let's Connect!  
